@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2019-09-16T17:03:43Z" finished-at="2019-09-16T17:03:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2019-09-16T17:03:43Z" finished-at="2019-09-16T17:03:43Z">
+      <class name="org.task2.WorkOut">
+        <test-method status="PASS" signature="bc()[pri:0, instance:org.task2.WorkOut@215be6bb]" name="bc" is-config="true" duration-ms="17" started-at="2019-09-16T22:33:43Z" finished-at="2019-09-16T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:org.task2.WorkOut@215be6bb]" name="bm" is-config="true" duration-ms="0" started-at="2019-09-16T22:33:43Z" finished-at="2019-09-16T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.task2.WorkOut@215be6bb]" name="test1" duration-ms="9" started-at="2019-09-16T22:33:43Z" finished-at="2019-09-16T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="af()[pri:0, instance:org.task2.WorkOut@215be6bb]" name="af" is-config="true" duration-ms="1" started-at="2019-09-16T22:33:43Z" finished-at="2019-09-16T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:org.task2.WorkOut@215be6bb]" name="ac" is-config="true" duration-ms="1" started-at="2019-09-16T22:33:43Z" finished-at="2019-09-16T22:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- org.task2.WorkOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
